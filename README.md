@@ -31,6 +31,15 @@
 
 ---
 
+---
+
+## 📝 أحدث مقالاتنا من المدونة
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+🔗 اقرأ المزيد على [modweeb.com](https://modweeb.com)
+
 ## 🌐 تواصل معنا
 
 - 💬 تيليجرام: [t.me/modweeb](https://t.me/modweeb)
